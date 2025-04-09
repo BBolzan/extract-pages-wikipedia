@@ -1,0 +1,13 @@
+{
+    "__arquivo_origem": "Perl.html",
+    "Paradigma": "Multiparadigma: funcional imperativa orientada a objetos reflexiva estruturada genérica",
+    "Surgido em": "1987",
+    "Última versão": "5.38.0 (2 de julho de 2023; há 20 meses)",
+    "Criado por": "Larry Wall",
+    "Estilo de tipagem": "dinâmica",
+    "Influenciada por": "AWK C C++ Lisp Pascal sed Shell script Smalltalk",
+    "Influenciou": "ECMAScript Falcon JavaScript PHP PowerShell Python Raku Ruby",
+    "Licença": "GNU GPLv1+ / Artística",
+    "Extensão do arquivo": ".pl.plx.pm.t.pod.xs",
+    "Página oficial": "www.perl.org"
+}
